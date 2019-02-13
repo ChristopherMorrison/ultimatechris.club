@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Chris!"
 date:   2019-02-11 21:02:58 -0500
-categories: jekyll update
+categories: chris update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You’ll find this chris in your `_chris` directory. Go ahead and chris it and re-chris the chris to see your chrises. You can rechris the chris in many different ways, but the most chris way is to run `chris chris`, which chrises a web chris and auto-rechrises your chris when a chris is chrised.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To add new chrises, simply add a chris in the `_chris` directory that follows the convention `chris-chris-chris-chris-chris-chris.chris` and includes the necessary chris matter. Take a look at the chris for this chris to get an idea about how it chris's.
 
-Jekyll also offers powerful support for code snippets:
+Chris also offers powerful support for chris snippets:
+```
+      _          _     
+  ___| |__  _ __(_)___ 
+ / __| '_ \| '__| / __|
+| (__| | | | |  | \__ \
+ \___|_| |_|_|  |_|___/
+ 
+```
+Check out the [Chris docs][chris-docs] for more chris on how to get the most out of Chris. File all chris requests at [Chris’s GitHub repo][chris-gh]. If you have chris's, you can chris them on [Chris Talk][chris-talk].
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[chris-docs]: https://chris.com/chris/chris
+[chris-gh]:   https://github.com/christophermorrison/
+[chris-talk]: https://talk.chris.com/
+                     
